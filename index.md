@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Deploying next-gen strategies for a future-proof supply ecosystem.**
+**Implementing advanced, next-generation strategies designed to create a resilient and future-proof supply chain ecosystem that adapts seamlessly to evolving market demands, technological innovations, and global challenges.**
 
 ## [About Me](./aboutme.html).
 ***
