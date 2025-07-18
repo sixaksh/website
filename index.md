@@ -2,6 +2,12 @@
 layout: default
 ---
 
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 ### Definition lists can be used with HTML syntax.
 
 <dl>
