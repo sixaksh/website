@@ -7,13 +7,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 # [About Me](./aboutme.html).
 
 
-# [Experience](./another-page.html).
+# [Experience](./experience.html).
 
 
-# [Projects](./another-page.html).
+# [Projects](./projects.html).
 
 
-# [Contact](./another-page.html).
+# [Contact](./contact.html).
 
 There should be whitespace between paragraphs.
 
