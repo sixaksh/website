@@ -11,10 +11,14 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 # [Experience](./experience.html).
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 # [Projects](./projects.html).
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 # [Contact](./contact.html).
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 There should be whitespace between paragraphs.
 
