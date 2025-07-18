@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) # [About Me](./aboutme.html).
+# [About Me](./aboutme.html).
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
