@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Deploying next-gen strategies for a future-proof supply ecosystem.**
 
 ## [About Me](./aboutme.html).
 ***
