@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Innovate Boldly, Adapt Quickly — Deploying next-gen strategies to build a future-proof, resilient supply ecosystem that drives lasting success.**
+**Strategize Smart, Perform Better — Building supply chains that outperform expectations.**
 
 ## [About Me](./aboutme.html).
 ***
