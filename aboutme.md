@@ -1,1 +1,11 @@
+---
+layout: default
+title: About Me
+description: This is just another page
+---
 
+## About Me 
+
+I'm a detail-oriented and results-driven supply chain professional with a passion for optimizing processes, reducing costs, and driving operational efficiency. With hands-on experience in logistics, procurement, inventory management, and data analytics, I bring a holistic approach to solving complex supply chain challenges. My expertise lies in aligning supply chain strategies with business goals, leveraging technology and data to deliver value across the entire value chain. This portfolio showcases my projects, skills, and achievements in streamlining operations and delivering measurable impact.
+
+[back](./)
