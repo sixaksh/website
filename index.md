@@ -8,19 +8,6 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## [About Me](./aboutme.html).
