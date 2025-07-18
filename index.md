@@ -4,7 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[About Me](./another-page.html).
+[Experience](./another-page.html).
+[Projects](./another-page.html).
+[Contact](./another-page.html).
 
 There should be whitespace between paragraphs.
 
