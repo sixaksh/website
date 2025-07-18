@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Deploying next-gen strategies for a future-proof supply ecosystem.**
+** Deploying next-gen strategies for a future-proof supply ecosystem. **
 
 ## [About Me](./aboutme.html).
 ***
