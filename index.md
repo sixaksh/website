@@ -6,9 +6,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # [About Me](./aboutme.html).
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) 
+> ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) 
 
-## Experienced supply chain management professional dedicated to enhancing operational efficiency and driving strategic growth.
+> ## Experienced supply chain management professional dedicated to enhancing operational efficiency and driving strategic growth.
 
 # [Experience](./experience.html).
 
