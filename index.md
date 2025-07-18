@@ -5,11 +5,11 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # [About Me](./aboutme.html).
-```ruby
+
 > ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) 
 >
 > ## Experienced supply chain management professional dedicated to enhancing operational efficiency and driving strategic growth.
-```
+
 # [Experience](./experience.html).
 
 > ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
